@@ -1,6 +1,6 @@
 #Photo Studio website.
 
-This is website of a photo studio name Baba Films.
+This is a website of photo studio named Baba Films.
 
 Languages used:
   - HTML
