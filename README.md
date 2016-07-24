@@ -22,5 +22,5 @@ Here are some Screen-shots of Website:
 
 This site is uploaded on [GitHub Pages](https://pages.github.com/).
 
-You can open it your browser clicking the below link.
+You can open it by clicking the link below.
 ##[Photo Studio](https://hnmn3.github.io/Photo_Studio/)
