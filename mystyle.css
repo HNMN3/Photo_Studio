@@ -101,6 +101,7 @@ div.imgchng {
     border-bottom: 4px solid white;
     background-color: black;
     padding: 4px 0px;
+    min-height: 480px;
 }
 
 div.details {
